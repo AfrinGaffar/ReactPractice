@@ -1,0 +1,19 @@
+.mode{
+  
+}
+.bg-green{
+  background: green;
+}
+.bg-red{
+  background:red;
+}
+.card{
+  display : flex;
+  flex-direction: column;
+  margin:20px;
+  background-color: antiquewhite;
+  justify-content: center;
+  gap:20px;
+   border: 1px solid gray;
+  box-sizing:border-box;
+}
